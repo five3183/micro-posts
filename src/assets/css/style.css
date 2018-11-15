@@ -1,0 +1,7 @@
+.delete {
+   color: red
+}
+
+i:hover {
+   transform: scale(1.5);
+}
